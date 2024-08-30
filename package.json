@@ -10,8 +10,22 @@
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.0",
+    "react-split": "^2.0.14",
+    "react-split-pane": "^2.0.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "bootstrap": "^5.3.3",
+    "child_process": "^1.0.2",
+    "css-loader": "^6.7.3",
+    "electron-packager": "^17.1.1",
+    "express": "^4.19.2",
+    "sass": "^1.59.3",
+    "sass-loader": "^13.2.1",
+    "style-loader": "^3.3.2",
+    "three": "^0.151.3",
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
